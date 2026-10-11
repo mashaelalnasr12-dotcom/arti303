@@ -39,3 +39,4 @@ typing_extensions==4.16.0
 tzdata==2026.4
 wcwidth==0.9.1
 zipp==3.23.1
+Seaborn==0.12.2
